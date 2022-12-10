@@ -20,3 +20,6 @@ Si el botón a utilizar se implementa el ejemplo sin usar ningún tipo de elimin
 
 La cantidad de rebotes que se logren visualizar será totalmente dependiente del tipo de botón que se utilice, es importante considerar que cada botón es diferente físicamente por lo tanto la eliminación de rebotes para cada botón también lo será.
 
+Debido a que la tarjeta está programada para contar cada vez que se detecte un flanco de subida, entonces cada vez que se pulse el botón se contará el pulso y adicional los rebotes que tiene el botón como se vió en la imagen anterior, por lo que finalmente la cuenta del programa dependerá más de la cantidad de rebotes que tiene el botón que de la pulsación realizada por el usuario.
+
+
