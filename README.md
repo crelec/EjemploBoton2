@@ -10,7 +10,7 @@ Si usamos otro Pin del micro en este caso uso el pin PB_3 se observa con facilid
 ## Montaje
 Para este montaje se utilizó cuatro leds y un botón conectados de la siguiente manera:
 
-![EjemploBoton2_bb](https://user-images.githubusercontent.com/59096507/209984804-c7651021-b936-44f5-92ca-cf549e2b7b2d.png){width='100px'}
+![EjemploBoton2_bb](https://user-images.githubusercontent.com/59096507/209984804-c7651021-b936-44f5-92ca-cf549e2b7b2d.png){width='60px'}
 
 ## Visualización de rebotes en osciloscopio
 Si el botón a utilizar se implementa el ejemplo sin usar ningún tipo de eliminador de rebotes, ya sea de forma física o por programación se logrará ver un señal de salida de este tipo:
